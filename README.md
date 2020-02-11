@@ -1,0 +1,2 @@
+# yzdel.github.io
+blog
